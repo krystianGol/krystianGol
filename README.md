@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Krystian Gołda! 👋
 
-<!--
-**krystianGol/krystianGol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Poznan University of Technology**. Passionate about web and mobile development, I enjoy building projects using modern technologies.
 
-Here are some ideas to get you started:
+### 🚀 Technologies I Work With:
+- **Frontend:** React Native, EJS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me:
+💻 Currently learning and exploring new technologies to expand my skillset.  
+📚 Working on various projects to improve my development skills.  
+🔎 Always open to collaboration and new opportunities!
+
+### 📫 Contact Me:
+- 📧 Email: krystianrafalgolda@gmail.com
+- 🌍 LinkedIn: https://www.linkedin.com/in/krystian-go%C5%82da-1a72b42b8/
+
+---
+
+Feel free to check out my repositories and projects! ✨
