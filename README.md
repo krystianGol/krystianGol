@@ -1,4 +1,4 @@
-### Hi there, I'm Krystian Gołda! 👋
+### Hello, I'm Krystian Gołda! 👋
 
 I'm a Computer Science student at **Poznan University of Technology**. Passionate about web and mobile development, I enjoy building projects using modern technologies.
 
